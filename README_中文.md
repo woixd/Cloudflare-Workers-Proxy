@@ -1,3 +1,5 @@
+[中文](https://github.com/fssxg/Cloudflare-Workers-Proxy/blob/main/README_%E4%B8%AD%E6%96%87.md)/[EN](https://github.com/fssxg/Cloudflare-Workers-Proxy/blob/main/README.md)
+
 # Cloudflare Workers Proxy（支持可选令牌认证）
 
 这是一个部署在 Cloudflare Workers 上的简单代理服务，支持通过 `/?url=` 参数动态访问任意网页或文件资源。
