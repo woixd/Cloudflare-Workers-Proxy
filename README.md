@@ -28,7 +28,7 @@
 2. 进入你的账号，点击左侧菜单中的 **计算(Workers)>Worker和Pages**
 3. 点击右上角 **创建**，选择 **"Workers>从 Hello World! 开始>开始使用"**
 4. 选择 **"部署>编辑代码"**
-5. 将本项目中的 无令牌认证 [`worker.js`](./worker.js) 或 有令牌认证 [`worker_token.js`](./worker_token.js) 文件内容复制进去（替换原有的内容）
+5. 将本项目中的 [`worker.js`](./worker.js) （无token认证）或 [`worker_token.js`](./worker_token.js) （有token认证）文件内容复制进去（替换原有的内容）
 有token认证的需要改配置内容：找到your-token-123456更改成自己的token，可任何字母和数字组合
 6. 点击顶部 **"部署"**
 
