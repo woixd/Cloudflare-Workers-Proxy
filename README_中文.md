@@ -88,6 +88,6 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 
 ## ❤️ 开源许可
 
-MIT License - 免费 / 修改 / 扩展。
+MIT License - 免费 / 修改 / 扩展。  
 如果你喜欢这个项目，欢迎点 ⭐Star 支持！
 
