@@ -1,7 +1,7 @@
 # Cloudflare Workers Proxy（支持可选令牌认证）
 
 这是一个部署在 Cloudflare Workers 上的简单代理服务，支持通过 `/?url=` 参数动态访问任意网页或文件资源。
-
+---
 ## ✨ 功能特点
 
 - ✅ 支持网页 / 接口 / 任意 URL 的代理请求
@@ -14,7 +14,7 @@
 
 
 
-
+---
 ## 📦 功能说明
 
 - 自动识别并代理 HTTP / HTTPS 请求
@@ -25,7 +25,7 @@
 
 
 
-
+---
 ## 🧩 部署方法
 
 1. 打开 [Cloudflare Workers Dashboard](https://dash.cloudflare.com/)
@@ -36,7 +36,7 @@
 有token认证的需要改配置内容：找到your-token-123456更改成自己的token，可任何字母和数字组合
 6. 点击顶部 **"部署"**
 
-
+---
 ## 🚀 在线演示
 
 
@@ -49,7 +49,7 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 替换 `your-subdomain` 为你部署到 Cloudflare 后生成的域名。
 
 
-
+---
 ## 🛠️ 可选功能（配置域名）
 
 - 需要将域名托管在cloudflare
@@ -66,7 +66,7 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
    或
    https://cfw-proxy.example.com/?url=https://github.com&token=自己设定token
 
-
+---
 ## ⚠️ 使用注意事项
 
 请遵守 Cloudflare 的使用条款，不得滥用此代理功能用于：
@@ -80,7 +80,7 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 
 
 
-
+---
 ## ❤️ 开源许可
 
 MIT License - 免费 / 修改 / 扩展。
