@@ -1,5 +1,7 @@
 ## 🌐 [中文](https://github.com/fssxg/Cloudflare-Workers-Proxy/blob/main/README_%E4%B8%AD%E6%96%87.md)/[EN](https://github.com/fssxg/Cloudflare-Workers-Proxy/blob/main/README.md)
 
+---
+
 # Cloudflare Workers Proxy (Supports Optional Token Authentication)
 
 This is a simple proxy service deployed on Cloudflare Workers that allows dynamic access to any webpage or file resource via the `/?url=` parameter.
