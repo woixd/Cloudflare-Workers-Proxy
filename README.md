@@ -51,13 +51,13 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 
 - 需要将域名托管在cloudflare
 - 假如我的域名是example.com
-1. 在刚创建的Workes里面选择 **"设置>域和路由>域和路由>添加"**
+1. 在刚创建的Workes选择 **"设置>域和路由>域和路由>添加"**
 - 自定义域： **"cfw-proxy.example.com"** 添加域
 - 路由：区域 **"example.com"** 路由 **"cfw-proxy.example.com/*"** 添加路由
 2. 绑定 **"设置>域和路由>绑定>添加"**
 - 服务绑定： 变量名称 **"cfw-proxy.example.com/*"** 服务绑定 **"刚创建的Workers项目名称"** 保存
 
-使用域名访问：
+- 使用域名访问：
 
    https://cfw-proxy.example.com/?url=https://github.com
    或
