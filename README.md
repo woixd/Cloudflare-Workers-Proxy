@@ -59,10 +59,10 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 
 ---
 
-使用域名访问：
-https://cfw-proxy.example.com/?url=https://github.com
-或
-https://cfw-proxy.example.com/?url=https://github.com&token=自己设定token
+- 使用域名访问：
+- https://cfw-proxy.example.com/?url=https://github.com
+- 或
+- https://cfw-proxy.example.com/?url=https://github.com&token=自己设定token
 
 ---
 
