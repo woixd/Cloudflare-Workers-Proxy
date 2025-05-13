@@ -61,7 +61,6 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 2. 绑定 **"设置>域和路由>绑定>添加"**
 - 服务绑定： 变量名称 **"cfw-proxy.example.com/*"** 服务绑定 **"刚创建的Workers项目名称"** 保存
 
----
 
 - 使用域名访问：
   ```
