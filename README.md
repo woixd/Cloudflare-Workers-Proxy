@@ -38,10 +38,14 @@
 
 
 无token认证
+```
 https://your-subdomain.workers.dev/?url=https://github.com
+```
 
 有token认证
+```
 https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-123456
+```
 
 替换 `your-subdomain` 为你部署到 Cloudflare 后生成的域名。
 
