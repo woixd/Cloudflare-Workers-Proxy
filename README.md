@@ -13,7 +13,7 @@
 
 
 
----
+
 
 ## 📦 功能说明
 
@@ -22,7 +22,7 @@
 - 自动添加 CORS 响应头（`Access-Control-Allow-Origin: *`）
 - 支持网页、API、图片、音视频等多种资源的转发
 
----
+
 
 
 
@@ -35,11 +35,11 @@
 5. 将本项目中的 无令牌认证 [`worker.js`](./worker.js) 或 有令牌认证 [`worker_token.js`](./worker_token.js) 文件内容复制进去（替换原有的内容）
 有token认证的需要改配置内容：找到your-token-123456更改成自己的token，可任何字母和数字组合
 6. 点击顶部 **"部署"**
----
+
 
 ## 🚀 在线演示
 
-```
+
 无token认证
 https://your-subdomain.workers.dev/?url=https://github.com
 
@@ -48,7 +48,7 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 
 替换 `your-subdomain` 为你部署到 Cloudflare 后生成的域名。
 
----
+
 
 ## 🛠️ 可选功能（配置域名）
 
@@ -59,7 +59,7 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 路由：区域 **"example.com"** 路由 **"cfw-proxy.example.com/*"** 添加路由
 2. 绑定 **"设置>域和路由>绑定>添加"**
 服务绑定： 变量名称 **"cfw-proxy.example.com/*"** 服务绑定 **"刚创建的Workers项目名称"** 保存
----
+
 使用域名访问：
    ```
    https://cfw-proxy.example.com/?url=https://github.com
@@ -78,7 +78,7 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 
 > 官方说明：[Cloudflare Workers 使用政策](https://developers.cloudflare.com/fundamentals/reference/policies-compliance/)
 
----
+
 
 
 ## ❤️ 开源许可
