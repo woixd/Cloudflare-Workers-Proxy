@@ -86,5 +86,5 @@ Please comply with Cloudflare’s terms of service. Do not misuse this proxy for
 
 ## ❤️ License
 
-MIT License - free to use / modify / extend.
+MIT License - free to use / modify / extend.  
 If you like this project, feel free to ⭐Star it!
