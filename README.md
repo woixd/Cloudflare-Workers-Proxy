@@ -1,4 +1,4 @@
-## [中文](https://github.com/fssxg/Cloudflare-Workers-Proxy/blob/main/README_%E4%B8%AD%E6%96%87.md)/[EN](https://github.com/fssxg/Cloudflare-Workers-Proxy/blob/main/README.md)
+## 🌐 [中文](https://github.com/fssxg/Cloudflare-Workers-Proxy/blob/main/README_%E4%B8%AD%E6%96%87.md)/[EN](https://github.com/fssxg/Cloudflare-Workers-Proxy/blob/main/README.md)
 
 # Cloudflare Workers Proxy (Supports Optional Token Authentication)
 
