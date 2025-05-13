@@ -29,7 +29,7 @@
 3. 点击右上角 **创建**，选择 **"Workers>从 Hello World! 开始>开始使用"**
 4. 选择 **"部署>编辑代码"**
 5. 将本项目中的 [`worker.js`](./worker.js) （无token认证）或 [`worker_token.js`](./worker_token.js) （有token认证）文件内容复制进去（替换原有的内容）
-- 有token认证的需要改配置内容：找到your-token-123456更改成自定义的token
+- 有token认证需要改配置内容：找到your-token-123456替换成自定义token
 6. 点击顶部 **"部署"**
 
 ---
@@ -66,7 +66,7 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
   ```
   https://cfw-proxy.example.com/?url=https://github.com
   或
-  https://cfw-proxy.example.com/?url=https://github.com&token=自己设定token
+  https://cfw-proxy.example.com/?url=https://github.com&token=your-token-123456
   ```
 
 ---
