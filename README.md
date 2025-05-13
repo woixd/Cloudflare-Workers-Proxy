@@ -61,11 +61,11 @@ https://your-subdomain.workers.dev/?url=https://github.com&token=your-token-1234
 服务绑定： 变量名称 **"cfw-proxy.example.com/*"** 服务绑定 **"刚创建的Workers项目名称"** 保存
 
 使用域名访问：
-   ```
+
    https://cfw-proxy.example.com/?url=https://github.com
    或
    https://cfw-proxy.example.com/?url=https://github.com&token=自己设定token
-   ```
+
 
 ## ⚠️ 使用注意事项
 
